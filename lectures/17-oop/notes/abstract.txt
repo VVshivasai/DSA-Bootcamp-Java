@@ -49,7 +49,7 @@ Implementation:
 Abstract class can provide the implementation of interface.
 Interface can’t provide the implementation of abstract class.
 
-Inheritance vs Abstraction:
+Interface vs Abstraction:
 A Java interface can be implemented using keyword “implements”
 and abstract class can be extended using keyword “extends”.
 
